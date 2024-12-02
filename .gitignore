@@ -1,5 +1,6 @@
 .DS_Store
 Shaders/.DS_Store
 scripts/.DS_Store
+scripts/skip.lua
 script-opts/.DS_Store
 mpv.conf
